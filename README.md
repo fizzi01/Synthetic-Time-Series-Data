@@ -1,6 +1,4 @@
 # Synthetic Photovoltaic Data Generation Workflow
-By employing a Generative Adversarial Network (GAN), the accuracy and efficiency of solar energy system designs is improved, offering a valuable opportunity to enhance to traditional data collection and simulation methods.
-
 This repository contains the code to execute the workflow proposed in the comment "Generation of synthetic time series data: a comparison in the photovoltaics". This workflow involves generating synthetic photovoltaic (PV) energy output, and validating the generated data.
 
 ## Table of Contents

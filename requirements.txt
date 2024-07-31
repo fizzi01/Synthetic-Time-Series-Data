@@ -1,0 +1,8 @@
+ydata_synthetic~=1.3.2
+pandas~=2.0.3
+numpy~=1.23.5
+pvlib~=0.10.3
+plotly~=5.9.0
+tqdm~=4.66.2
+scikit-learn~=1.3.2
+joblib~=1.3.2

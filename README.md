@@ -1,5 +1,5 @@
-# Synthetic Photovoltaic Data Generation Workflow
-This repository contains the code to execute the workflow proposed in the comment "Generation of synthetic time series data: a comparison in the photovoltaics". This workflow involves generating synthetic photovoltaic (PV) energy output, and validating the generated data.
+# Addressing data scarcity in local photovoltaic datasets: a GAN-based workflow
+This repository contains the code to execute the workflow proposed in the [paper](). This workflow involves generating synthetic photovoltaic (PV) energy output, and validating the generated data.
 
 ## Table of Contents
 
@@ -128,6 +128,6 @@ The `main.py` script orchestrates the entire workflow for generating synthetic p
 ---
 ## Contact
 
-For any questions or issues, please contact the authors of the comment or open an issue in this repository.
+For any questions or issues, please contact the authors or open an issue in this repository.
 
 

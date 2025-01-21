@@ -1,5 +1,5 @@
 # Addressing data scarcity in local photovoltaic datasets: a GAN-based workflow
-This repository contains the code to execute the workflow proposed in the [paper](). This workflow involves generating synthetic photovoltaic (PV) energy output, and validating the generated data.
+This repository contains the code to execute the workflow proposed in the [paper](https://doi.org/10.1109/BigData62323.2024.10825752). This workflow involves generating synthetic photovoltaic (PV) energy output, and validating the generated data.
 
 ## Table of Contents
 
